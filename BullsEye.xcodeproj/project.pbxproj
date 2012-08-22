@@ -22,13 +22,13 @@
 		51F3E2C215E51D0E008441E3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		51F3E2C415E51D0E008441E3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		51F3E2C615E51D0E008441E3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		51F3E2CA15E51D0E008441E3 /* BullsEye-Info.plist */ = {isa = PBXFileReference; path = "BullsEye-Info.plist"; sourceTree = "<group>"; };
+		51F3E2CA15E51D0E008441E3 /* BullsEye-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BullsEye-Info.plist"; sourceTree = "<group>"; };
 		51F3E2CC15E51D0E008441E3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		51F3E2CE15E51D0E008441E3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		51F3E2D015E51D0E008441E3 /* BullsEye-Prefix.pch */ = {isa = PBXFileReference; path = "BullsEye-Prefix.pch"; sourceTree = "<group>"; };
-		51F3E2D115E51D0E008441E3 /* BullsEyeAppDelegate.h */ = {isa = PBXFileReference; path = BullsEyeAppDelegate.h; sourceTree = "<group>"; };
+		51F3E2D015E51D0E008441E3 /* BullsEye-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BullsEye-Prefix.pch"; sourceTree = "<group>"; };
+		51F3E2D115E51D0E008441E3 /* BullsEyeAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BullsEyeAppDelegate.h; sourceTree = "<group>"; };
 		51F3E2D215E51D0E008441E3 /* BullsEyeAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BullsEyeAppDelegate.m; sourceTree = "<group>"; };
-		51F3E2D415E51D0E008441E3 /* BullsEyeViewController.h */ = {isa = PBXFileReference; path = BullsEyeViewController.h; sourceTree = "<group>"; };
+		51F3E2D415E51D0E008441E3 /* BullsEyeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BullsEyeViewController.h; sourceTree = "<group>"; };
 		51F3E2D515E51D0E008441E3 /* BullsEyeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BullsEyeViewController.m; sourceTree = "<group>"; };
 		51F3E2D815E51D0E008441E3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BullsEyeViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
