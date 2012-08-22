@@ -1,6 +1,7 @@
 //
 //  BullsEyeViewController.m
 //  BullsEye
+//  Cardinal Solutions
 //
 //  Created by Christopher Fahey on 8/22/12.
 //  Copyright (c) 2012 Cardinal Solutions. All rights reserved.
